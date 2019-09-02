@@ -51,7 +51,7 @@
 - REPORT 2: `ggplot2`로 그래프 그려보기
 
 **4th:** 단체견학
-- 국제축산박람회(대전광역시)
+- 국제축산박람회(대구광역시)
 - http://www.kistock.co.kr/intro.html
 
 **5th:** 조별 발표
