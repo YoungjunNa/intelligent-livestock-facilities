@@ -31,14 +31,15 @@
 - 1번의 팀 프레젠테이션과
 - 1번의 팀 프로젝트가 있습니다
 
-**2nd:** 돼지의 환경과 시설 1 & R 소개
+**2nd:** 돼지의 환경과 시설 1 & Data Sci. introduction  
 - 가축사육에 영향을 미치는 환경요인
 - 양돈 환기의 효과와 필요성
 - 환기량 결정
+- AI, ML, and Deep learning
+- Data exploration
 - Open Source와 [GNU 선언문](https://www.gnu.org/gnu/manifesto.ko.html)
 - [R](https://www.r-project.org/) & [R Studio](https://www.rstudio.com/)
-- Github: https://github.com/
-- REPORT 1: R과 RStudio 설치하기 & 1st commit @Github
+- REPORT 1: R과 RStudio 설치하기
 
 **3rd:** 돼지의 환경과 시설 2 & 데이터 탐색하기
 - 공기풍속
