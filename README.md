@@ -51,7 +51,7 @@
 - 구글님은 모든 것을 알려주실 것이다: `* in R`
 - REPORT 2: `ggplot2`로 그래프 그려보기
 
-**4th:** 단체견학
+**4th:** 단체견학 - ASF로 무기한 연기  
 - 국제축산박람회(대구광역시)
 - http://www.kistock.co.kr/intro.html
 
