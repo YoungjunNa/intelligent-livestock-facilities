@@ -55,9 +55,10 @@
 - 국제축산박람회(대구광역시)
 - http://www.kistock.co.kr/intro.html
 
-**5th:** 조별 발표
-- *"축산 기자재 판매 영업왕이 되어보자!"*
-- https://youtu.be/PNqRI42NPKM
+**5th:** ~~조별 발표~~ 전산실 탈출게임!  
+- ~~*"축산 기자재 판매 영업왕이 되어보자!"*~~
+- ~~https://youtu.be/PNqRI42NPKM~~
+- 미션: 조원들과 힘을 합쳐 전산실을 탈출하라!! [Rule](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/%EC%A0%84%EC%82%B0%EC%8B%A4%ED%83%88%EC%B6%9C%EA%B2%8C%EC%9E%84.pdf)  
 
 **6th:** 한글날 🇰🇷
 - 법정 공휴일 휴강
