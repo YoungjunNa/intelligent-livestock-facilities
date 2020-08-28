@@ -119,7 +119,6 @@
 
 **13-14th:** 천하제일 축산 데이터 대회 🐮 💻 🏃
 > *"People power sparks great ideas!"*
-- Date: 2019-12-07 09:00 - 18:00
 - [카카오 모빌리티 레포트 2017](https://brunch.co.kr/@kakaomobility/2)
 - [카카오 모빌리티 레포트 2018](https://brunch.co.kr/@kakaomobility/19)
 
